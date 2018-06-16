@@ -1,0 +1,38 @@
+@font-face{
+  font-family: "helvetica";
+  src:url('../fonts/helvetica.ttf');
+}
+body{
+  font-family: "helvetica",serif;
+}
+h1{
+  background-image: url("../../resources/images/pattern.jpeg");
+  font-size: 100px;
+  font-weight: bold;
+  color:khaki;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+}
+
+.green{
+  background-color: mediumspringgreen;
+}
+
+.pink{
+  background-color: lightcoral;
+}
+
+.blue{
+  background-color: skyblue;
+}
+
+strong{
+    font-weight: bold;
+    color:blue;
+}
